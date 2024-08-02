@@ -34,3 +34,5 @@ Also, some examples of test data along with the original mask and the predicted 
 
 https://drive.google.com/file/d/1uOTpwYXvm5B2th0XFHK2ZsydHpZmLipo/view?usp=drivesdk
 
+Nimavaladbeigie@gmail.com
+t.me/nimavaladbeigie
